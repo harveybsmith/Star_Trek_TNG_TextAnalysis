@@ -4,4 +4,4 @@ An in depth character analysis of the Star Trek: The Next Generation series usin
 Using the database of all episodes transcripts located at:
 http://www.chakoteya.net/NextGen
 
-1. First I scraped all the text from each page (episode) using a loop and stored the results into a pandas dataframe.  
+1. First I scraped all the text from each page (episode) using a loop and stored the results into a pandas dataframe. [here](https://github.com/mixtek/Star_Trek_TNG_TextAnalysis/blob/master/Star%20Trek%20Scrape.ipynb) 
